@@ -1,6 +1,7 @@
 # python-study
 
 ## 22.09.27 
+- LIST
 - Numpy
 - seaborn
 - Box Plot
