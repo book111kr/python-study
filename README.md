@@ -1,4 +1,11 @@
 # python-study
+## 22.10.03
+- Naver bs4
+- Gmarket bs4
+- NaverAPI
+## 22.10.01
+- Web Crawling
+- web basic
 ## 22.09.29
 - 서울시 범죄현황 분석 - 지도시각화
 - 서울시 범죄현황 분석 - 연도별 현황
