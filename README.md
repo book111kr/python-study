@@ -1,6 +1,7 @@
 # python-study
 ## 22.10.17
 - Image Thresholding
+- Online retail
 ## 22.10.15
 - 2019-10 네이버영화 평점정리
 - 데이터 수집과 분석 - 주유소 가격 분석
