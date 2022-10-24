@@ -1,5 +1,6 @@
 # python-study
 ## 22.10.17
+- 블러링과 스무딩
 - 마케팅 데이터 분석
 - Image Thresholding
 - Online retail
