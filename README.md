@@ -1,5 +1,6 @@
 # python-study
 ## 22.10.17
+- 마케팅 데이터 분석
 - Image Thresholding
 - Online retail
 ## 22.10.15
